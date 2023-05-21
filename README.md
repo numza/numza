@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @senele
-- 👀 I’m interested in web development and system development 
-- 🌱 I’m currently learning nodejs, vuejs, reactjs and .Net
+- 👀 I’m interested in software development and system development 
+- 🌱 I’m currently learning nodejs, vuejs, reactjs and angular
 - 💞️ I’m looking to collaborate on an project
 - 📫 How to reach me: snlcebekhulusanele@gmail.com
 
